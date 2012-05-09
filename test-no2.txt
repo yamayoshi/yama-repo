@@ -1,7 +1,15 @@
 01:add_text-no2
+<<<<<<< HEAD
 02:change_test-no2_01
 03:change_test-no2_02
 04:change_test-no2_03
 05:change_test-no2_04
 06:change_test-no2_05
 07:change_test-no2_06
+=======
+02:change_text-no2_01
+03:change_text-no2_02
+04:change_text-no2_03
+05:change_text-no2_04
+06:change_text-no2_05
+>>>>>>> 74340dee32c744446e989dae5507c6d20d6fa354
