@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 int main(void){
-  printf("hoge\n");
+  printf("あらゆる現実を\n");
 }
