@@ -1,13 +1,3 @@
-01:yamashita on
-02:yamashita on2
-03:yamashita on3
-04:yamashita on4
-05:yamashita on5
-06:yamashita on6
-07:yamashita on7
-
-0509
-01:change01
 02:change02
 03:change03
 04:change04
